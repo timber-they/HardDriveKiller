@@ -1,0 +1,7 @@
+C:\Users\Meta Colon\RiderProjects\HardDriveKiller\Test\bin\Release\Test.dll
+C:\Users\Meta Colon\RiderProjects\HardDriveKiller\Test\bin\Release\Test.pdb
+C:\Users\Meta Colon\RiderProjects\HardDriveKiller\Test\bin\Release\nunit.framework.dll
+C:\Users\Meta Colon\RiderProjects\HardDriveKiller\Test\bin\Release\nunit.framework.xml
+C:\Users\Meta Colon\RiderProjects\HardDriveKiller\Test\obj\Release\Test.csprojResolveAssemblyReference.cache
+C:\Users\Meta Colon\RiderProjects\HardDriveKiller\Test\obj\Release\Test.dll
+C:\Users\Meta Colon\RiderProjects\HardDriveKiller\Test\obj\Release\Test.pdb
