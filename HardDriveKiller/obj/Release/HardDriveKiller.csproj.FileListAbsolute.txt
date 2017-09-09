@@ -1,0 +1,15 @@
+C:\Users\Meta Colon\RiderProjects\HardDriveKiller\HardDriveKiller\bin\Release\External\drivedb.h
+C:\Users\Meta Colon\RiderProjects\HardDriveKiller\HardDriveKiller\bin\Release\External\runcmda.exe
+C:\Users\Meta Colon\RiderProjects\HardDriveKiller\HardDriveKiller\bin\Release\External\runcmdu.exe
+C:\Users\Meta Colon\RiderProjects\HardDriveKiller\HardDriveKiller\bin\Release\External\smartctl-nc.exe
+C:\Users\Meta Colon\RiderProjects\HardDriveKiller\HardDriveKiller\bin\Release\External\smartctl.exe
+C:\Users\Meta Colon\RiderProjects\HardDriveKiller\HardDriveKiller\bin\Release\External\smartd.conf
+C:\Users\Meta Colon\RiderProjects\HardDriveKiller\HardDriveKiller\bin\Release\External\smartd.exe
+C:\Users\Meta Colon\RiderProjects\HardDriveKiller\HardDriveKiller\bin\Release\External\smartd_warning.cmd
+C:\Users\Meta Colon\RiderProjects\HardDriveKiller\HardDriveKiller\bin\Release\External\update-smart-drivedb.exe
+C:\Users\Meta Colon\RiderProjects\HardDriveKiller\HardDriveKiller\bin\Release\External\wtssendmsg.exe
+C:\Users\Meta Colon\RiderProjects\HardDriveKiller\HardDriveKiller\bin\Release\HardDriveKiller.exe
+C:\Users\Meta Colon\RiderProjects\HardDriveKiller\HardDriveKiller\bin\Release\HardDriveKiller.pdb
+C:\Users\Meta Colon\RiderProjects\HardDriveKiller\HardDriveKiller\obj\Release\HardDriveKiller.csprojResolveAssemblyReference.cache
+C:\Users\Meta Colon\RiderProjects\HardDriveKiller\HardDriveKiller\obj\Release\HardDriveKiller.exe
+C:\Users\Meta Colon\RiderProjects\HardDriveKiller\HardDriveKiller\obj\Release\HardDriveKiller.pdb
