@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Diagnostics;
+using System.Threading;
 using System.Windows.Forms;
 
 
@@ -16,7 +17,11 @@ namespace HardDriveKiller
             InitializeHotKey ();
             Console.WriteLine ("Hotkey registered!");
 
-            while (true) {}
+            while (true)
+            {
+                Thread.Sleep (60000);
+                ShutDownDrive (true);
+            }
         }
 
         private static void InitializeHotKey ()
