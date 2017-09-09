@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.0.0
 MinimumVisualStudioVersion = 10.0.0.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HardDriveKiller", "HardDriveKiller\HardDriveKiller.csproj", "{BCE69E5B-2A92-49D7-B88A-050FF39F4AA3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{5500C76D-5C05-44CC-978A-8A8A357341A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BCE69E5B-2A92-49D7-B88A-050FF39F4AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCE69E5B-2A92-49D7-B88A-050FF39F4AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCE69E5B-2A92-49D7-B88A-050FF39F4AA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5500C76D-5C05-44CC-978A-8A8A357341A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5500C76D-5C05-44CC-978A-8A8A357341A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5500C76D-5C05-44CC-978A-8A8A357341A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5500C76D-5C05-44CC-978A-8A8A357341A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
